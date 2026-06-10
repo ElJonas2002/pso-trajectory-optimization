@@ -2,9 +2,7 @@
 
 > Energy-aware motion strategy for a **2-DOF robotic manipulator**, using Particle Swarm Optimization (PSO) and cubic-spline trajectory planning to minimize energy consumption.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 
 ## ✨ Highlights
 
