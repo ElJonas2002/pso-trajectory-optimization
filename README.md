@@ -24,7 +24,7 @@
 
 ## 📄 Publication
 
-Presented at **[CONFERENCE NAME, YEAR]** — *publication pending*.
+Presented at Trajectories 2026 Conference — *publication pending*.
 <!-- Add a link to the paper / proceedings / preprint here once available. -->
 
 ## 🛠️ Tech Stack
@@ -46,7 +46,6 @@ python main.py        # runs the optimization and generates plots
 ```
 pso-trajectory-optimization/
 ├── src/                 # Dynamics model, PSO, spline planner
-├── matlab/              # MATLAB simulation scripts
 ├── results/             # Plots, energy-comparison figures
 ├── paper/               # Conference paper / figures
 ├── requirements.txt
