@@ -43,10 +43,8 @@ python main.py        # runs the optimization and generates plots
 
 ```
 pso-trajectory-optimization/
-├── src/                 # Dynamics model, PSO, spline planner
-├── results/             # Plots, energy-comparison figures
+├── src/                 # MATLAB source code
 ├── paper/               # Conference paper / figures
-├── requirements.txt
 └── README.md
 ```
 
